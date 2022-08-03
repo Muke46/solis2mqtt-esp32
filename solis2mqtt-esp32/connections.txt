@@ -1,0 +1,12 @@
+vcc - 3.3
+gnd - gnd
+DI - TX2
+DE - D2
+RE - D4
+RO - RX2
+
+RS485 connector
+1- 5V
+2- GND
+3- A+
+4- B-

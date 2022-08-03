@@ -1,0 +1,2 @@
+https://github.com/bram2202/Ginlong-Solis-mqtt
+https://github.com/incub77/solis2mqtt
