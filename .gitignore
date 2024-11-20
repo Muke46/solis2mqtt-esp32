@@ -1,2 +1,3 @@
-
-solis2mqtt-esp32/secrets.h
+.pio
+.vscode
+include/secrets.h
